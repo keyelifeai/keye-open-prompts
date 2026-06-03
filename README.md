@@ -208,9 +208,8 @@ keye-open-prompts/
 
 ## 🔗 相关项目
 
-- **[keye-claude-skills]** - Claude Code 技能集合
-- **[keye-article-pipeline]** - AI文章创作流程
-- **[keye-markdown-tools]** - Markdown处理工具
+- **[keye-open-skills]** - Useful Agent skills collection
+- **[keye-markdown-mastery]** - Markdown 学习笔记与处理工具
 
 ---
 
